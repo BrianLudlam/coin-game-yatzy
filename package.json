@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "loom-truffle-provider": "^0.13.0"
+  }
+}
